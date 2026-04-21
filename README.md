@@ -1,4 +1,4 @@
-# Software-Engineering-Project-25-25
+# Software-Engineering-Project-25-26
 Software engineering project of the CEID undergraduate course "Software Technology"
 
 Bin...Go! | Smart Recycling Ecosystem
